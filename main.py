@@ -9,6 +9,7 @@ from os.path import exists
 THEME_COLOR = "#375362"
 FONTS = ['arial.ttf','calibril.ttf','consola.ttf','constan.ttf','cour.ttf','georgia.ttf','framd.ttf']
 
+
 class Image_Watermarking_App:
 
     def __init__(self):
